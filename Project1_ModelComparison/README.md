@@ -45,4 +45,4 @@ This repository presents a rigorous analytical framework for evaluating state-of
 This notebook is a powerful resource for data scientists, ML engineers, and educators seeking to benchmark models across distinct classification contexts. It serves both as a tutorial and as a foundation for extending model evaluations to novel datasets and advanced algorithms.
 
 ## Project Note
-Proyek ini merupakan bagian dari tugas akhir pada program Bootcamp Data Science dan Machine Learning yang diselenggarakan oleh DibimbingID. Bootcamp ini menekankan pembelajaran praktis melalui penerapan algoritma machine learning pada berbagai dataset nyata, sekaligus mempersiapkan peserta untuk tantangan dunia industri data science.
+This project is part of the final assignment in the Data Science and Machine Learning Bootcamp organized by DibimbingID. The bootcamp emphasizes practical learning through the application of machine learning algorithms on various real-world datasets, while also preparing participants for challenges in the data science industry.
